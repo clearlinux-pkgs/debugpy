@@ -4,7 +4,7 @@
 #
 Name     : debugpy
 Version  : 1.3.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/e6/d8/1148a0e4ee8609a7a4a17849b5cf3bba0575211f64f48827da6c200e82b6/debugpy-1.3.0.zip
 Source0  : https://files.pythonhosted.org/packages/e6/d8/1148a0e4ee8609a7a4a17849b5cf3bba0575211f64f48827da6c200e82b6/debugpy-1.3.0.zip
 Summary  : An implementation of the Debug Adapter Protocol for Python
